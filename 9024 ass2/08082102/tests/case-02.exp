@@ -1,0 +1,31 @@
+Dictionary
+0: case
+1: cast
+2: cat
+3: cats
+4: cave
+5: cost
+6: cove
+7: love
+8: post
+9: save
+10: suave
+Ordered Word Ladder Graph
+V=11, E=10
+<0 1> <0 4> 
+<1 0> <1 2> <1 5> 
+<2 1> <2 3> 
+<3 2> 
+<4 0> <4 6> <4 9> 
+<5 1> <5 8> 
+<6 4> <6 7> 
+<7 6> 
+<8 5> 
+<9 4> <9 10> 
+<10 9> 
+Longest ladder length: 4
+Longest ladders:
+ 1: case -> cast -> cat -> cats
+ 2: case -> cast -> cost -> post
+ 3: case -> cave -> cove -> love
+ 4: case -> cave -> save -> suave

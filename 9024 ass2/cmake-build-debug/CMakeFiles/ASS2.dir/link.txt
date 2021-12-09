@@ -1,0 +1,3 @@
+"D:\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\ASS2.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ASS2.dir/objects.a @CMakeFiles\ASS2.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\ASS2.dir/objects.a -Wl,--no-whole-archive  -o ASS2.exe -Wl,--out-implib,libASS2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ASS2.dir\linklibs.rsp

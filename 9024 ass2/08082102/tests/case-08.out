@@ -1,0 +1,38 @@
+Dictionary
+0: decare
+1: decart
+2: decast
+3: demast
+4: depart
+5: deport
+6: depot
+7: devast
+8: devest
+9: recart
+10: recast
+11: redart
+12: relast
+13: remast
+14: report
+Ordered Word Ladder Graph
+V=15, E=18
+<0 1> 
+<1 0> <1 2> <1 4> <1 9> 
+<2 1> <2 3> <2 7> <2 10> 
+<3 2> <3 7> <3 13> 
+<4 1> <4 5> 
+<5 4> <5 6> <5 14> 
+<6 5> 
+<7 2> <7 3> <7 8> 
+<8 7> 
+<9 1> <9 10> <9 11> 
+<10 2> <10 9> <10 12> <10 13> 
+<11 9> 
+<12 10> <12 13> 
+<13 3> <13 10> <13 12> 
+<14 5> 
+Longest ladder length: 6
+Longest ladders:
+ 1: decare -> decart -> decast -> demast -> devast -> devest
+ 2: decare -> decart -> decast -> recast -> relast -> remast
+ 3: decare -> decart -> recart -> recast -> relast -> remast

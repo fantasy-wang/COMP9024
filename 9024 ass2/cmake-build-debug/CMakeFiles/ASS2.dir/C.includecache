@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/9024 DS/9024 ass2/Graph.h
+
+D:/9024 DS/9024 ass2/GraphAM.c
+stdio.h
+-
+stdlib.h
+-
+graph.h
+D:/9024 DS/9024 ass2/graph.h
+
+D:/9024 DS/9024 ass2/Quack.h
+stdio.h
+-
+stdlib.h
+-
+
+D:/9024 DS/9024 ass2/graph.h
+
+D:/9024 DS/9024 ass2/owl.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+Quack.h
+D:/9024 DS/9024 ass2/Quack.h
+Graph.h
+D:/9024 DS/9024 ass2/Graph.h
+ctype.h
+-
+
+D:/9024 DS/9024 ass2/quack.c
+quack.h
+D:/9024 DS/9024 ass2/quack.h
+
+D:/9024 DS/9024 ass2/quack.h
+stdio.h
+-
+stdlib.h
+-
+

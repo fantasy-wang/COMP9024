@@ -1,0 +1,28 @@
+Dictionary
+0: deal
+1: dealt
+2: dean
+3: dear
+4: deary
+5: decry
+6: denary
+7: desalt
+8: resalt
+9: result
+Ordered Word Ladder Graph
+V=10, E=10
+<0 1> <0 2> <0 3> 
+<1 0> <1 7> 
+<2 0> <2 3> 
+<3 0> <3 2> <3 4> 
+<4 3> <4 5> <4 6> 
+<5 4> 
+<6 4> 
+<7 1> <7 8> 
+<8 7> <8 9> 
+<9 8> 
+Longest ladder length: 5
+Longest ladders:
+ 1: deal -> dealt -> desalt -> resalt -> result
+ 2: deal -> dean -> dear -> deary -> decry
+ 3: deal -> dean -> dear -> deary -> denary

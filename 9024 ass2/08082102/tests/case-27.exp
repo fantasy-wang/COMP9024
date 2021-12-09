@@ -1,0 +1,15 @@
+Dictionary
+0: a
+1: b
+2: ccc
+3: ccd
+Ordered Word Ladder Graph
+V=4, E=2
+<0 1> 
+<1 0> 
+<2 3> 
+<3 2> 
+Longest ladder length: 2
+Longest ladders:
+ 1: a -> b
+ 2: ccc -> ccd

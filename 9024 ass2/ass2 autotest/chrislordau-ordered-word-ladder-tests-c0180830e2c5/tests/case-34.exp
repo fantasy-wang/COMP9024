@@ -1,0 +1,27 @@
+Dictionary
+0: decane
+1: decare
+2: decate
+3: decene
+4: declare
+5: delate
+6: dilate
+7: filate
+8: relate
+9: related
+Ordered Word Ladder Graph
+V=10, E=10
+<0 1> <0 2> <0 3> 
+<1 0> <1 2> <1 4> 
+<2 0> <2 1> <2 5> 
+<3 0> 
+<4 1> 
+<5 2> <5 6> <5 8> 
+<6 5> <6 7> 
+<7 6> 
+<8 5> <8 9> 
+<9 8> 
+Longest ladder length: 6
+Longest ladders:
+ 1: decane -> decare -> decate -> delate -> dilate -> filate
+ 2: decane -> decare -> decate -> delate -> relate -> related

@@ -1,0 +1,48 @@
+Dictionary
+0: filler
+1: fillet
+2: filmet
+3: filter
+4: fister
+5: fitter
+6: foster
+7: fouter
+8: fuller
+9: furler
+10: furner
+11: hitter
+12: hoster
+13: huller
+14: hulver
+15: hurler
+16: lister
+17: liter
+18: litter
+19: poster
+Ordered Word Ladder Graph
+V=20, E=25
+<0 1> <0 3> <0 8> 
+<1 0> <1 2> 
+<2 1> 
+<3 0> <3 4> <3 5> 
+<4 3> <4 5> <4 6> <4 16> 
+<5 3> <5 4> <5 11> <5 18> 
+<6 4> <6 7> <6 12> <6 19> 
+<7 6> 
+<8 0> <8 9> <8 13> 
+<9 8> <9 10> <9 15> 
+<10 9> 
+<11 5> <11 18> 
+<12 6> <12 19> 
+<13 8> <13 14> <13 15> 
+<14 13> 
+<15 9> <15 13> 
+<16 4> <16 17> <16 18> 
+<17 16> <17 18> 
+<18 5> <18 11> <18 16> <18 17> 
+<19 6> <19 12> 
+Longest ladder length: 6
+Longest ladders:
+ 1: filler -> filter -> fister -> fitter -> hitter -> litter
+ 2: filler -> filter -> fister -> foster -> hoster -> poster
+ 3: filler -> filter -> fister -> lister -> liter -> litter

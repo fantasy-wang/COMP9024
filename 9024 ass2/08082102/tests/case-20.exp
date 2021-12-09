@@ -1,0 +1,37 @@
+Dictionary
+0: backed
+1: banked
+2: sacked
+3: sacken
+4: sacred
+5: swacken
+6: tanked
+7: wacken
+8: wacker
+9: waker
+10: waler
+11: waller
+12: wauken
+13: waver
+14: wicken
+Ordered Word Ladder Graph
+V=15, E=16
+<0 1> <0 2> 
+<1 0> <1 6> 
+<2 0> <2 3> <2 4> 
+<3 2> <3 5> <3 7> 
+<4 2> 
+<5 3> <5 7> 
+<6 1> 
+<7 3> <7 5> <7 8> <7 12> <7 14> 
+<8 7> <8 9> 
+<9 8> <9 10> <9 13> 
+<10 9> <10 11> <10 13> 
+<11 10> 
+<12 7> 
+<13 9> <13 10> 
+<14 7> 
+Longest ladder length: 9
+Longest ladders:
+ 1: backed -> sacked -> sacken -> swacken -> wacken -> wacker -> waker -> waler -> waller
+ 2: backed -> sacked -> sacken -> swacken -> wacken -> wacker -> waker -> waler -> waver

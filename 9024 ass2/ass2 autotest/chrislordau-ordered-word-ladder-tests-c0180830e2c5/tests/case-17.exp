@@ -1,0 +1,26 @@
+Dictionary
+0: badger
+1: banger
+2: barger
+3: darger
+4: darter
+5: dater
+6: mater
+7: matey
+8: pater
+9: patera
+Ordered Word Ladder Graph
+V=10, E=11
+<0 1> <0 2> 
+<1 0> <1 2> 
+<2 0> <2 1> <2 3> 
+<3 2> <3 4> 
+<4 3> <4 5> 
+<5 4> <5 6> <5 8> 
+<6 5> <6 7> <6 8> 
+<7 6> 
+<8 5> <8 6> <8 9> 
+<9 8> 
+Longest ladder length: 9
+Longest ladders:
+ 1: badger -> banger -> barger -> darger -> darter -> dater -> mater -> pater -> patera

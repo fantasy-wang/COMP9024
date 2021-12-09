@@ -1,0 +1,86 @@
+Dictionary
+0: decil
+1: decile
+2: deckle
+3: decyl
+4: defile
+5: define
+6: dekle
+7: dele
+8: delf
+9: delft
+10: dell
+11: delve
+12: delver
+13: desyl
+14: deul
+15: devil
+16: devily
+17: dewily
+18: dill
+19: dilli
+20: docile
+21: doll
+22: dolly
+23: dowily
+24: dozily
+25: elver
+26: evil
+27: helve
+28: helver
+29: oozily
+30: refine
+31: refire
+32: reline
+33: relink
+34: relive
+35: repine
+36: retire
+37: rewire
+38: shelve
+39: whelve
+Ordered Word Ladder Graph
+V=40, E=46
+<0 1> <0 3> <0 15> 
+<1 0> <1 2> <1 4> <1 20> 
+<2 1> <2 6> 
+<3 0> <3 13> 
+<4 1> <4 5> 
+<5 4> <5 30> 
+<6 2> <6 7> 
+<7 6> <7 8> <7 10> <7 11> 
+<8 7> <8 9> <8 10> 
+<9 8> 
+<10 7> <10 8> <10 14> <10 18> <10 21> 
+<11 7> <11 12> <11 27> 
+<12 11> <12 25> <12 28> 
+<13 3> 
+<14 10> 
+<15 0> <15 16> <15 26> 
+<16 15> <16 17> 
+<17 16> <17 23> 
+<18 10> <18 19> <18 21> 
+<19 18> 
+<20 1> 
+<21 10> <21 18> <21 22> 
+<22 21> 
+<23 17> <23 24> 
+<24 23> <24 29> 
+<25 12> <25 28> 
+<26 15> 
+<27 11> <27 28> <27 38> <27 39> 
+<28 12> <28 25> <28 27> 
+<29 24> 
+<30 5> <30 31> <30 32> <30 35> 
+<31 30> <31 36> <31 37> 
+<32 30> <32 33> <32 34> <32 35> 
+<33 32> 
+<34 32> 
+<35 30> <35 32> 
+<36 31> <36 37> 
+<37 31> <37 36> 
+<38 27> <38 39> 
+<39 27> <39 38> 
+Longest ladder length: 10
+Longest ladders:
+ 1: decil -> decile -> deckle -> dekle -> dele -> delf -> dell -> dill -> doll -> dolly

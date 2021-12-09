@@ -1,0 +1,18 @@
+Dictionary
+0: an
+1: at
+2: in
+3: it
+4: on
+Ordered Word Ladder Graph
+V=5, E=6
+<0 1> <0 2> <0 4> 
+<1 0> <1 3> 
+<2 0> <2 3> <2 4> 
+<3 1> <3 2> 
+<4 0> <4 2> 
+Longest ladder length: 3
+Longest ladders:
+ 1: an -> at -> it
+ 2: an -> in -> it
+ 3: an -> in -> on

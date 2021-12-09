@@ -1,0 +1,48 @@
+Dictionary
+0: crosse
+1: crouse
+2: croute
+3: cruse
+4: crush
+5: crusie
+6: crust
+7: crusta
+8: crusty
+9: cruth
+10: cush
+11: cushy
+12: cusie
+13: cusk
+14: cusp
+15: route
+16: router
+17: ruth
+18: souter
+19: truth
+Ordered Word Ladder Graph
+V=20, E=23
+<0 1> 
+<1 0> <1 2> <1 3> 
+<2 1> <2 15> 
+<3 1> <3 4> <3 5> <3 6> 
+<4 3> <4 6> <4 9> <4 10> 
+<5 3> <5 12> 
+<6 3> <6 4> <6 7> <6 8> 
+<7 6> <7 8> 
+<8 6> <8 7> 
+<9 4> <9 17> <9 19> 
+<10 4> <10 11> <10 13> <10 14> 
+<11 10> 
+<12 5> 
+<13 10> <13 14> 
+<14 10> <14 13> 
+<15 2> <15 16> 
+<16 15> <16 18> 
+<17 9> <17 19> 
+<18 16> 
+<19 9> <19 17> 
+Longest ladder length: 7
+Longest ladders:
+ 1: crosse -> crouse -> cruse -> crush -> crust -> crusta -> crusty
+ 2: crosse -> crouse -> cruse -> crush -> cruth -> ruth -> truth
+ 3: crosse -> crouse -> cruse -> crush -> cush -> cusk -> cusp

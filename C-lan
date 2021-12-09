@@ -1,0 +1,13 @@
+segmentation fault: 一般是指针越界
+array初始化:char s[3]={'o','h','\0'}
+			
+			char *s="oh"
+			如何使用:
+			s[0]='o'
+			*s='o'
+			*(s+1)='h'
+			
+c语言运行文件:
+	gcc -c main.c
+	gcc -o 随便写个名字 main.o
+	./随便写个名字  如果要命令行输入，后面用空格再继续加

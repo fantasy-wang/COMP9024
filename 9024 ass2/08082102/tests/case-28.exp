@@ -1,0 +1,55 @@
+Dictionary
+0: alpha
+1: alphas
+2: brave
+3: bravo
+4: charlie
+5: delta
+6: echo
+7: foxtrot
+8: golf
+9: gulf
+10: hotel
+11: indigo
+12: juliett
+13: kilo
+14: lima
+15: mango
+16: mike
+17: motel
+18: november
+19: oscar
+20: papa
+21: quebec
+22: romeo
+23: sierra
+24: tango
+25: uniform
+26: victor
+27: whiskey
+28: xray
+29: yankee
+30: yankees
+31: zulu
+Ordered Word Ladder Graph
+V=32, E=6
+<0 1> 
+<1 0> 
+<2 3> 
+<3 2> 
+<8 9> 
+<9 8> 
+<10 17> 
+<15 24> 
+<17 10> 
+<24 15> 
+<29 30> 
+<30 29> 
+Longest ladder length: 2
+Longest ladders:
+ 1: alpha -> alphas
+ 2: brave -> bravo
+ 3: golf -> gulf
+ 4: hotel -> motel
+ 5: mango -> tango
+ 6: yankee -> yankees

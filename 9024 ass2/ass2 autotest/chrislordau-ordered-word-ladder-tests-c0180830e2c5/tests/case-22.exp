@@ -1,0 +1,10 @@
+Dictionary
+0: a
+1: b
+Ordered Word Ladder Graph
+V=2, E=1
+<0 1> 
+<1 0> 
+Longest ladder length: 2
+Longest ladders:
+ 1: a -> b

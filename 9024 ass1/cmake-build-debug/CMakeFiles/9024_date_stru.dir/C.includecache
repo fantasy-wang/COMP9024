@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/9024 date stru/boardADT.c
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+math.h
+-
+stdbool.h
+-
+boardADT.h
+D:/9024 date stru/boardADT.h
+ctype.h
+-
+
+D:/9024 date stru/boardADT.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+ctype.h
+-
+
+D:/9024 date stru/puzzle.c
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+string.h
+-
+ctype.h
+-
+boardADT.h
+D:/9024 date stru/boardADT.h
+

@@ -1,0 +1,61 @@
+Dictionary
+0: aaaa
+1: aaab
+2: aaba
+3: aabb
+4: abaa
+5: abab
+6: abba
+7: abbb
+8: baaa
+9: baab
+10: baba
+11: babb
+12: bbaa
+13: bbab
+14: bbba
+15: bbbb
+Ordered Word Ladder Graph
+V=16, E=32
+<0 1> <0 2> <0 4> <0 8> 
+<1 0> <1 3> <1 5> <1 9> 
+<2 0> <2 3> <2 6> <2 10> 
+<3 1> <3 2> <3 7> <3 11> 
+<4 0> <4 5> <4 6> <4 12> 
+<5 1> <5 4> <5 7> <5 13> 
+<6 2> <6 4> <6 7> <6 14> 
+<7 3> <7 5> <7 6> <7 15> 
+<8 0> <8 9> <8 10> <8 12> 
+<9 1> <9 8> <9 11> <9 13> 
+<10 2> <10 8> <10 11> <10 14> 
+<11 3> <11 9> <11 10> <11 15> 
+<12 4> <12 8> <12 13> <12 14> 
+<13 5> <13 9> <13 12> <13 15> 
+<14 6> <14 10> <14 12> <14 15> 
+<15 7> <15 11> <15 13> <15 14> 
+Longest ladder length: 5
+Longest ladders:
+ 1: aaaa -> aaab -> aabb -> abbb -> bbbb
+ 2: aaaa -> aaab -> aabb -> babb -> bbbb
+ 3: aaaa -> aaab -> abab -> abbb -> bbbb
+ 4: aaaa -> aaab -> abab -> bbab -> bbbb
+ 5: aaaa -> aaab -> baab -> babb -> bbbb
+ 6: aaaa -> aaab -> baab -> bbab -> bbbb
+ 7: aaaa -> aaba -> aabb -> abbb -> bbbb
+ 8: aaaa -> aaba -> aabb -> babb -> bbbb
+ 9: aaaa -> aaba -> abba -> abbb -> bbbb
+10: aaaa -> aaba -> abba -> bbba -> bbbb
+11: aaaa -> aaba -> baba -> babb -> bbbb
+12: aaaa -> aaba -> baba -> bbba -> bbbb
+13: aaaa -> abaa -> abab -> abbb -> bbbb
+14: aaaa -> abaa -> abab -> bbab -> bbbb
+15: aaaa -> abaa -> abba -> abbb -> bbbb
+16: aaaa -> abaa -> abba -> bbba -> bbbb
+17: aaaa -> abaa -> bbaa -> bbab -> bbbb
+18: aaaa -> abaa -> bbaa -> bbba -> bbbb
+19: aaaa -> baaa -> baab -> babb -> bbbb
+20: aaaa -> baaa -> baab -> bbab -> bbbb
+21: aaaa -> baaa -> baba -> babb -> bbbb
+22: aaaa -> baaa -> baba -> bbba -> bbbb
+23: aaaa -> baaa -> bbaa -> bbab -> bbbb
+24: aaaa -> baaa -> bbaa -> bbba -> bbbb

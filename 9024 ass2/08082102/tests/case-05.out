@@ -1,0 +1,30 @@
+Dictionary
+0: hoard
+1: hoary
+2: holard
+3: horary
+4: hory
+5: hoy
+6: lory
+7: oary
+8: oaty
+9: orary
+Ordered Word Ladder Graph
+V=10, E=10
+<0 1> <0 2> 
+<1 0> <1 3> <1 4> <1 7> 
+<2 0> 
+<3 1> <3 9> 
+<4 1> <4 5> <4 6> 
+<5 4> 
+<6 4> 
+<7 1> <7 8> <7 9> 
+<8 7> 
+<9 3> <9 7> 
+Longest ladder length: 4
+Longest ladders:
+ 1: hoard -> hoary -> horary -> orary
+ 2: hoard -> hoary -> hory -> hoy
+ 3: hoard -> hoary -> hory -> lory
+ 4: hoard -> hoary -> oary -> oaty
+ 5: hoard -> hoary -> oary -> orary
